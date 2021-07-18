@@ -20,7 +20,7 @@ public class LoginTest {
 
 	public static void main(String[] args) {
 		
-		
+		//this is a rough package
 		HomePage home = new HomePage();
 		LoginPage lp = home.goToLogin();
 		lp.doLogin("saraswatnipun16@gmail.com", "Nirupma@12");
